@@ -31,8 +31,8 @@
     "src"
   ],
   "peerDependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react": "^16.8.6 || ^17.0.0",
+    "react-dom": "^16.8.6 || ^17.0.0"
   },
   "dependencies": {
     "lodash.camelcase": "^4.3.0",
